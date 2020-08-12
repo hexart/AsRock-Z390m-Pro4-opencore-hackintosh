@@ -17,3 +17,7 @@ Display: 27" 4K (3840x2160) IPS
 Storage: 512GB SSD M.2 Intel 760P
 
 WLAN + Bluetooth: BCM94360CD
+
+Opencore 0.6.0 Release version
+
+Compatible with Catalina and Big Sur

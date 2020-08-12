@@ -1,4 +1,4 @@
-# AsRock-Z390m-Pro4-opencore-hackintosh
+# AsRock-Z390m-Pro4-OpenCore-Hackintosh
 
 ### My Hardware
 

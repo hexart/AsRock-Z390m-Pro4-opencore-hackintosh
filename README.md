@@ -1,5 +1,8 @@
 # AsRock-Z390m-Pro4-OpenCore-Hackintosh
 
+sysInfo | neoFetch
+:---:|:----:
+![about](/images/about.png)|![neo](/images/neo.png)
 ### My Hardware
 
 - **Mainboard**: AsRock Z390M Pro4

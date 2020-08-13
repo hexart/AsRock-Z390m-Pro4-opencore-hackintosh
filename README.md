@@ -14,9 +14,6 @@ sysInfo | neoFetch
 - **Storage**: 512GB SSD M.2 Intel 760P
 - **WLAN + Bluetooth**: BCM94360CD
 
-### OpenCore version 
-- [0.6.0 Offical Release](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.0)
-
 ### Compatible with Catalina and Big Sur
 
 ### BIOS Settings
@@ -30,3 +27,8 @@ sysInfo | neoFetch
 | CSM | Execute Disable Bit |
 | | EHCI/XHCI Hand-off |
 | | OS type: other types |
+
+### Credits
+* **OpenCore Bootloader** 0.6.0 from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.0)
+* **The best Installation guide I followed** from [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html)
+* **Also followed** from [Xjn's Blog](https://blog.xjn819.com/?p=543)

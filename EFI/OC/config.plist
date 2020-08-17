@@ -222,7 +222,7 @@
 				<string>Audio device</string>
 				<key>hda-gfx</key>
 				<string>onboard-2</string>
-				<key>layout-id</key>
+				<key>#layout-id</key>
 				<data>FgAAAA==</data>
 				<key>model</key>
 				<string>Cannon Lake PCH cAVS</string>
@@ -651,11 +651,11 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 brcmfx-country=#a</string>
+				<string>keepsyms=1 alcid=22 brcmfx-country=#a brcmfx-driver=2</string>
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
-				<data>5wMAAA==</data>
+				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
 				<data>emgtSGFuczoyNTI=</data>
 			</dict>
@@ -720,7 +720,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C07643400JKFYRFD7</string>
+			<string>C0700000000000000</string>
 			<key>ROM</key>
 			<data>qGC2qWaY</data>
 			<key>SpoofVendor</key>
@@ -728,9 +728,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZQUY9JWDW</string>
+			<string>C02000000000</string>
 			<key>SystemUUID</key>
-			<string>B529682F-82A4-4B10-8594-3807F39DCE82</string>
+			<string>00000000-0000-0000-0000-000000000000</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

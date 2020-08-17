@@ -29,6 +29,6 @@ sysInfo | neoFetch
 | | OS type: other types |
 
 ### Credits
-* **OpenCore Bootloader** 0.6.1 from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.0)
+* **OpenCore Bootloader** 0.6.1(2020-08-17) from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.0)
 * **The best Installation guide I followed** from [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html)
 * **Also followed** from [Xjn's Blog](https://blog.xjn819.com/?p=543)

@@ -23,6 +23,16 @@ sysInfo | neoFetch
 
   ![cpu](/images/cpu.png)
 
+### Kexts version
+**AirportBrcmFixup**: 2.0.9
+**AppleALC**: 1.5.2
+**IntelMausiEthernet**: 1.0.3
+**Lilu**: 1.4.7
+**NVMeFix**: 1.0.3
+**RTCMemoryFixup**: 1.0.6
+**VirtualSMC**: 1.1.6
+**WhateverGreen**: 1.4.2
+
 ### Compatible with Catalina and Big Sur
 
 ### BIOS Settings

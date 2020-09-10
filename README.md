@@ -17,12 +17,10 @@ sysInfo | neoFetch
   ![cpu](/images/cpu.png)
 
 ### Kexts version
-- **AirportBrcmFixup**: 2.0.9
 - **AppleALC**: 1.5.2
 - **IntelMausiEthernet**: 1.0.3
 - **Lilu**: 1.4.7
 - **NVMeFix**: 1.0.3
-- **RTCMemoryFixup**: 1.0.6
 - **VirtualSMC**: 1.1.6
 - **WhateverGreen**: 1.4.2
 
@@ -41,6 +39,6 @@ sysInfo | neoFetch
 | | OS type: other types |
 
 ### Credits
-* **OpenCore Bootloader** 0.6.1(2020-08-27) from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.0)
+* **OpenCore Bootloader** 0.6.1(2020-09-07) from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases)
 * **The best Installation guide I followed** from [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html)
 * **Also followed** from [Xjn's Blog](https://blog.xjn819.com/?p=543)

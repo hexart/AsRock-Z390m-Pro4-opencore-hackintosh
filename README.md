@@ -3,30 +3,36 @@
 sysInfo | neoFetch
 :---:|:----:
 ![about](/images/about.png)|![neo](/images/neo.png)
-### My Hardware
 
-- **Mainboard**: AsRock Z390M Pro4
-- **Processor**: Intel Core i7-9700K (8C 3.6GHz, 12MB)
-- **Graphics**: Integrated Intel UHD Graphics 630
-- **Graphics**: Radeon RX 580 8G Sapphire
-- **Memory**: 8GBx4 DIMM 2133 MHz DDR4
-- **Display**: 27" 4K (3840x2160) IPS
-- **Storage**: 512GB SSD M.2 Intel 760P
-- **WLAN + Bluetooth**: BCM94360CD
+<details>
+  <summary><strong>My Hardware</strong></summary>
 
-  ![cpu](/images/cpu.png)
+- Mainboard: AsRock Z390M Pro4
+- Processor: Intel Core i7-9700K (8C 3.6GHz, 12MB)
+- Graphics: Integrated Intel UHD Graphics 630
+- Graphics: Radeon RX 580 8G Sapphire
+- Memory: 8GBx4 DIMM 2133 MHz DDR4
+- Display: 27" 4K (3840x2160) IPS
+- Storage: 512GB SSD M.2 Intel 760P
+- WLAN + Bluetooth: BCM94360CD
 
-### Kexts version
+![cpu](/images/cpu.png)
+</details>
+<details>
+  <summary><strong>Kexts version</strong></summary>
+
 - **AppleALC**: 1.5.2
 - **IntelMausiEthernet**: 1.0.3
 - **Lilu**: 1.4.7
 - **NVMeFix**: 1.0.3
 - **VirtualSMC**: 1.1.6
 - **WhateverGreen**: 1.4.2
-
 ### Compatible with Catalina and Big Sur
+</details>
 
-### BIOS Settings
+<details>
+  <summary><strong>BIOS Settings</strong></summary>
+
 - **BIOS Version** 4.30
 
 | Disabled | Enabled |
@@ -37,8 +43,12 @@ sysInfo | neoFetch
 | CSM | Execute Disable Bit |
 | | EHCI/XHCI Hand-off |
 | | OS type: other types |
+</details>
 
-### Credits
-* **OpenCore Bootloader** 0.6.1(2020-09-07) from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases)
-* **The best Installation guide I followed** from [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html)
-* **Also followed** from [Xjn's Blog](https://blog.xjn819.com/?p=543)
+<details>
+  <summary><strong>Credits</strong></summary>
+  
+  **OpenCore Bootloader** 0.6.1(2020-09-07) from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases)
+  **The best Installation guide** I followed from [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html)
+  **Also followed from [Xjn's Blog](https://blog.xjn819.com/?p=543)
+</details>

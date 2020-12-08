@@ -21,11 +21,11 @@ sysInfo | neoFetch
 <details>
   <summary><strong>Kexts version</strong></summary>
 
-- **AppleALC**: 1.5.4
+- **AppleALC**: 1.5.5
 - **IntelMausiEthernet**: 1.0.4
-- **Lilu**: 1.4.9
-- **VirtualSMC**: 1.1.8
-- **WhateverGreen**: 1.4.4
+- **Lilu**: 1.5.0
+- **VirtualSMC**: 1.1.9
+- **WhateverGreen**: 1.4.5
 ### Compatible with Catalina and Big Sur
 </details>
 
@@ -47,7 +47,7 @@ sysInfo | neoFetch
 <details>
   <summary><strong>Credits</strong></summary>
 
-  **OpenCore Bootloader** 0.6.3(2020-11-06) from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases)
+  **OpenCore Bootloader** 0.6.4 (2020-12-07) from [OpenCore Respository](https://github.com/acidanthera/OpenCorePkg/releases)
 
   **The best Installation guide** I followed from [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html)
 
